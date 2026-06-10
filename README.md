@@ -4,7 +4,7 @@ Dự án sử dụng Trí tuệ nhân tạo (Computer Vision) để nhận diệ
 
 ## 🚀 Tính năng chính
 * Nhận diện cử chỉ tay "Mở/Đóng" thời gian thực bằng camera.
-* Điều khiển động cơ Servo S90 xoay góc để gạt chốt cửa.
+* Điều khiển động cơ Servo S90 xoay góc để thực hiện đóng mở cửa.
 * Kết nối và cập nhật trạng thái, lưu log lịch sử hoạt động lên Firebase Realtime Database.
 
 ## 🛠 Linh kiện & Công nghệ sử dụng
