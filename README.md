@@ -9,8 +9,8 @@ Dự án sử dụng Trí tuệ nhân tạo (Computer Vision) để nhận diệ
 
 ## 🛠 Linh kiện & Công nghệ sử dụng
 * **Phần mềm/AI:** Python, OpenCV, MediaPipe (nhận diện bàn tay), Firebase Admin SDK.
-* **Phần cứng:** Arduino (hoặc vi điều khiển tương đương), Động cơ Servo SG90.
+* **Phần cứng chính:** Arduino (hoặc vi điều khiển tương đương), Động cơ Servo SG90.
 
 ## 📂 Cấu trúc mã nguồn
-* `CodeCV2.py`: File Python xử lý hình ảnh từ camera, nhận diện cử chỉ và gửi dữ liệu lên Firebase / Serial.
+* `CodeCV2.py`: File Python xử lý hình ảnh từ camera, nhận diện cử chỉ tay và gửi dữ liệu lên Firebase.
 * `Code_Servo_S90.ino`: Code Arduino nạp vào mạch để đọc dữ liệu và điều khiển Servo.
