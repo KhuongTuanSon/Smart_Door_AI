@@ -1,1 +1,4 @@
-
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+firebase-admin==7.4.0
+pyserial
